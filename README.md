@@ -1,4 +1,6 @@
 # monkxy
+
+<a href="https://spotify-readme-kappa-two.vercel.app/api?theme=dark"></a>
   
 ### full-stack web developer
 <a href="discord.gg/zezmCHhJQK">Discord Server</a>
