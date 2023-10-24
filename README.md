@@ -1,5 +1,7 @@
 # monkxy
 
-<img src="https://spotify-readme-monkxy.vercel.app/api?theme=dark" />
+<h3>fullstack web devloper</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<h4>hi my names monkxy, im a fluent developer in languages such as javascript and go. i like nodejs a lot and have used python from time to time. check out my site: <a href="https://monkxy.com/">monkxy.com</a></h4>
+
+<img src="https://spotify-readme-monkxy.vercel.app/api?theme=dark" />
