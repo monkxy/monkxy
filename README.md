@@ -4,4 +4,4 @@
 
 <h4>hi my names monkxy, im a fluent developer in languages such as javascript and go. i like nodejs a lot and have used python from time to time. check out my site: <a href="https://monkxy.com/">monkxy.com</a></h4>
 
-<img src="https://spotify-readme-monkxy.vercel.app/api?theme=dark" />
+<img src="https://spotify-readme-monkxy.vercel.app/api?theme=dark&scan=true" />
